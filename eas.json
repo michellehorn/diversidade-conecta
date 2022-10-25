@@ -1,0 +1,19 @@
+{
+  "build": {
+    "development": {
+      "extends": "production",
+      "developmentClient": "true",
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "preview": {
+      "extends": "production",
+      "distribution": "internal"
+    },
+    "production": {
+      "node": "16.13.0"
+    }
+  }
+}

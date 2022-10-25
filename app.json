@@ -1,0 +1,20 @@
+{
+  "title": "Alteritat",
+  "description": "teste description",
+  "ios.appStoreUrl": "",
+  "extra": {
+    "eas": {
+      "projectId": "53151621-b9a0-4aca-907e-27e0a95d31e2"
+    }
+  },
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.michellehorn.frontendbrvagas"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53151621-b9a0-4aca-907e-27e0a95d31e2"
+      }
+    }
+  }
+}
